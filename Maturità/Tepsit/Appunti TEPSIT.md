@@ -81,8 +81,7 @@ localhost:8080/contex/app/index.html
 
 2. Ogni richiesta del client ha come risposta una nuova istanza dell'applicazione da parte di Glassfish
 
-
-1. Specificare a JAXRS di inoltrare in XML medinate annotazione 
+1. Specificare a JAXRS di inoltrare in XML mediante annotazione 
 ```java
 @Annotazione
 public class Book implements Serializable {
