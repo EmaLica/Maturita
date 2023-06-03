@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb99d6ec5d78fa43",
+        "id": "261ac02bbb7a6036",
         "type": "tabs",
         "children": [
           {
-            "id": "402b707814fbedb5",
+            "id": "015288bca05bfefb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Modello Er.md",
+                "file": "Tepsit/Appunti TEPSIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Modello Er.md",
+                "file": "Tepsit/Appunti TEPSIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Modello Er.md",
+                "file": "Tepsit/Appunti TEPSIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Modello Er.md"
+                "file": "Tepsit/Appunti TEPSIT.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -148,17 +149,30 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "402b707814fbedb5",
+  "active": "015288bca05bfefb",
   "lastOpenFiles": [
-    "Tepsit/Annotazioni Web Application e JAX-RS.md",
+    "Home Page.md",
     "Tepsit/Appunti TEPSIT.md",
+    "Tepsit/Annotazioni Web Application e JAX-RS.md",
+    "Tepsit/Programma Tepsit.pdf",
+    "assets/WhatsApp Image 2022-12-11 at 17.34.39.jpeg",
+    "assets/home.jpg",
+    "Early American History.md",
+    "Sistemi e reti/Programma Sistemi.pdf",
+    "Bathroom Remodel.md",
+    "home.jpg.md",
     "Informatica/Modello Er.md",
-    "Untitled.md",
+    "Sistemi e reti/Iso 27001 e Cloud Computing.md",
+    "Sistemi e reti/Dmz,Trust.md",
+    "Sistemi e reti/Appunti verifica.md",
     "Templates/Note.md",
-    "Informatica/Untitled.md",
+    "Sistemi e reti/Windows Server.md",
+    "Informatica/Sql.md",
+    "Sistemi e reti/Java Web Socket.md",
+    "Tepsit/Sistemi Distribuiti.md",
+    "Tepsit/Tecnologie e Protocolli di rete.md",
     "Informatica/Templater.md",
     "Templates",
-    "assets/WhatsApp Image 2022-12-11 at 17.34.39.jpeg",
     "assets/db.png",
     "assets/Cattura.png",
     "assets/Cattura 9.png",
@@ -167,17 +181,11 @@
     "assets/Cattura 6.png",
     "assets/Cattura 5.png",
     "assets/Cattura 4.png",
-    "assets/Cattura 3.png",
     "assets",
     "Cattura.png.md",
     "Italiano",
     "Storia",
     "Tepsit",
-    "Sistemi e reti/Windows Server.md",
-    "Sistemi e reti/Java Web Socket.md",
-    "Sistemi e reti/Iso 27001 e Cloud Computing.md",
-    "Sistemi e reti/Dmz,Trust.md",
-    "Sistemi e reti/Appunti verifica.md",
     "Sistemi e reti",
     "Informatica"
   ]

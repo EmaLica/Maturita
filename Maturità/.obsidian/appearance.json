@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
 }

@@ -7,7 +7,7 @@ glassfish 4.1
 le versioni antecendenti hanno problemi con l'esportazione in JSON
 
 scambio di dati xml e json
-framework front-end angulajs 
+framework front-end angularjs 
 
 New Project > Java Web > Web Application 
 Server = Glassfish 4.1.
@@ -140,10 +140,3 @@ Response.ok("").cookie(new NewCookie())
 
 WebApplicationException(Response.Status.FORBIDDEN)
 ```
-CODICI HTTP 200, 300, 400, 500
-
-// input form
-// sql query
-// cookie
-
-NewCookie vs Cookie ?

@@ -9,7 +9,7 @@ author: Ema
 5. Collaudo: verifica del corretto funzionamento del sistema
 
 ![[Cattura.png]]
-### Entita e relazioni
+### Entità e relazioni
 Entità: sono classi di oggetti, che hanno tutti le stesse proprietà ed esistono in modo autonomo; ogni entità è un insieme di oggetti (detti anche istanze o occorrenze)
 
 Associazioni: sono legami logici fra due o più entità. Anche una associazione è un insieme, è l’insieme delle correlazioni fra i singoli elementi delle entità coinvolte
