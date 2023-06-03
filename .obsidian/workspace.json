@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9737ec4a98ad7bcd",
+    "id": "d1499fafe64b9e5f",
     "type": "split",
     "children": [
       {
-        "id": "b82fe790a95e5c9d",
+        "id": "724319c3e944e12d",
         "type": "tabs",
         "children": [
           {
-            "id": "f10d5f6a8c2672d0",
+            "id": "200b3b6054f712c4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "746a650d0eb1497b",
+    "id": "3f598d40a5a87a93",
     "type": "split",
     "children": [
       {
-        "id": "5458c8bacc0f4618",
+        "id": "b0b16365e5f13948",
         "type": "tabs",
         "children": [
           {
-            "id": "e4cf5d209453809c",
+            "id": "5a2bc830c2ec37f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "f9083f44a2217654",
+            "id": "0d40ca30ecbdeaec",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "69c7ac0b3d1b2f05",
+            "id": "9737477ae3e76c8d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "fbb1bb708887ad84",
+    "id": "e96b495703ad9610",
     "type": "split",
     "children": [
       {
-        "id": "9e868eebdc835845",
+        "id": "7968006cafde600f",
         "type": "tabs",
         "children": [
           {
-            "id": "381498c42163671d",
+            "id": "bd20ec06d6c32bfc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "47fba0c9b0c47653",
+            "id": "17545c4a629b2ef2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "68de45029ba04a22",
+            "id": "54486c677e566b7f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "f333145a16340f4d",
+            "id": "44dc3f8bab5f81bd",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,19 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4cf5d209453809c",
-  "lastOpenFiles": [
-    "Tepsit/Appunti TEPSIT.md",
-    "Tepsit/Annotazioni Web Application e JAX-RS.md",
-    "Tepsit",
-    "Sistemi e reti/Windows Server.md",
-    "Sistemi e reti/Java Web Socket.md",
-    "Sistemi e reti/Iso 27001 e Cloud Computing.md",
-    "Sistemi e reti/Dmz,Trust.md",
-    "Sistemi e reti/Appunti verifica.md",
-    "Sistemi e reti",
-    "Informatica/Modello Er.md",
-    "Informatica",
-    "Untitled"
-  ]
+  "active": "200b3b6054f712c4",
+  "lastOpenFiles": []
 }
