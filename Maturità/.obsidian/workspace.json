@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tepsit/Annotazioni Web Application e JAX-RS.md",
+                "file": "Informatica/Modello Er.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tepsit/Annotazioni Web Application e JAX-RS.md",
+                "file": "Informatica/Modello Er.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tepsit/Annotazioni Web Application e JAX-RS.md",
+                "file": "Informatica/Modello Er.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tepsit/Annotazioni Web Application e JAX-RS.md"
+                "file": "Informatica/Modello Er.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "402b707814fbedb5",
   "lastOpenFiles": [
-    "Informatica/Modello Er.md",
-    "Untitled.md",
     "Tepsit/Annotazioni Web Application e JAX-RS.md",
     "Tepsit/Appunti TEPSIT.md",
+    "Informatica/Modello Er.md",
+    "Untitled.md",
     "Templates/Note.md",
     "Informatica/Untitled.md",
     "Informatica/Templater.md",
