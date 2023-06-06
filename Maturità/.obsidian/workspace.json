@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "261ac02bbb7a6036",
+        "id": "a36494c35f549efb",
         "type": "tabs",
         "children": [
           {
-            "id": "015288bca05bfefb",
+            "id": "0c0f8ba49a14ffb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home Page.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -149,7 +149,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "015288bca05bfefb",
+  "active": "0c0f8ba49a14ffb3",
   "lastOpenFiles": [
     "Tepsit/Appunti TEPSIT.md",
     "Home Page.md",
