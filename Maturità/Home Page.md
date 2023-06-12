@@ -23,11 +23,12 @@ banner_y: 0
 	- 
 - 💽 Sistemi ORM in java
 	- 
-- 📶 WebService
+- 📶 Web Service
 	- 
 - 🌐 WebApplication
 	- [[Annotazioni Web Application e JAX-RS]]
- # Sistemi e Reti
+
+# Sistemi e Reti
 - 🚚 Livello di Trasporto
 	- [[Bathroom Remodel]]
 	- [[Paint entryway]]
@@ -72,6 +73,80 @@ banner_y: 0
 	- [[Bill Hansen]]
 	- [[Brad Jefferson]]
 	- [[Olga Olson]]
+
+# Storia
+- 💼 Volume 2
+	- Unificazione dell'Italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
+- 💼 Volume 3
+	- La Belle Époque
+	- L’Italia nell’età giolittiana
+	- La Grande Guerra
+	- La Rivoluzione russa
+	- I fragili equilibri del Dopoguerra
+	- Crisi del '29 e l'America di Roosevelt
+	- Il regime fascista di Mussolini
+	- Hitler al potere
+	- Verso la catastrofe
+	- La Seconda Guerra mondiale
+	- Il mondo diviso in due blocchi (Cenni)
+- 💼 Volume 3
+	- Articoli  
+# Italiano
+- 💼 Giacomo Leopardi
+	- Unificazione dell'Italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
+- 💼 Giovanni Verga
+	- Unificazione dell'Italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
+- 💼 Giovanni Pascoli
+	- Unificazione dell'Italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
+- 💼 Gabriele D'Annunzio
+	- Unificazione dell'italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
+- 💼 Luigi Pirandello
+	- Unificazione dell'italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
+- 💼 Italo Svevo
+	- Unificazione dell'italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
+- 💼 Giuseppe Ungaretti
+	- Unificazione dell'italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
+- 💼 Eugenio Montale
+	- Unificazione dell'Italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
+- Naturalismo francese e Verismo italiano
+	- a
+- Simbolismo e Decadentismo
+	- a 
+- Il primo novecento
+	- a 
+# Matematica
+- 💼 Volume 2
+	- Unificazione dell'Italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
+# Impresa
+- 💼 Volume 2
+	- Unificazione dell'italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
+# Inglese
+- 💼 Volume 2
+	- Unificazione dell'italia
+	- La seconda Rivoluzione industriale
+	- Il complesso itinerario dell’Italia
 
 # Info Vault
 - 🗄️ File aggiornati di recente

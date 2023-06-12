@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1562b319416efb2b",
+        "id": "4e3c63ba51331858",
         "type": "tabs",
         "children": [
           {
-            "id": "4291b36e4cca288d",
+            "id": "261cf30b8d03614c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Tepsit/Programma Tepsit.pdf"
+                "file": "Home Page.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tepsit/Programma Tepsit.pdf",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tepsit/Programma Tepsit.pdf",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tepsit/Programma Tepsit.pdf"
+                "file": "Home Page.md"
               }
             }
           }
@@ -147,10 +149,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4cf5d209453809c",
+  "active": "261cf30b8d03614c",
   "lastOpenFiles": [
-    "Storia/Programma Storia.pdf",
     "Italiano/Programma Italiano.pdf",
+    "Home Page.md",
+    "Storia/Programma Storia.pdf",
+    "Olga Olson.md",
     "Impresa/Programma Impresa.pdf",
     "Impresa",
     "Nuova cartella",
@@ -159,8 +163,6 @@
     "Inglese/Programma Inglese.pdf",
     "Inglese",
     "Sistemi e reti/Programma Lab Sistemi.pdf",
-    "Storia",
-    "Home Page.md",
     "Tepsit/Appunti TEPSIT.md",
     "Tepsit/Annotazioni Web Application e JAX-RS.md",
     "assets/WhatsApp Image 2022-12-11 at 17.34.39.jpeg",
