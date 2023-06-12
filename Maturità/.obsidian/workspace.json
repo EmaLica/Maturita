@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a36494c35f549efb",
+        "id": "1562b319416efb2b",
         "type": "tabs",
         "children": [
           {
-            "id": "0c0f8ba49a14ffb3",
+            "id": "4291b36e4cca288d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Home Page.md",
-                "mode": "source",
-                "source": false
+                "file": "Tepsit/Programma Tepsit.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Tepsit/Programma Tepsit.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Tepsit/Programma Tepsit.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Tepsit/Programma Tepsit.pdf"
               }
             }
           }
@@ -149,16 +147,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c0f8ba49a14ffb3",
+  "active": "e4cf5d209453809c",
   "lastOpenFiles": [
-    "Tepsit/Appunti TEPSIT.md",
+    "Storia/Programma Storia.pdf",
+    "Italiano/Programma Italiano.pdf",
+    "Impresa/Programma Impresa.pdf",
+    "Impresa",
+    "Nuova cartella",
+    "Matematica/Programma Matematica.pdf",
+    "Matematica",
+    "Inglese/Programma Inglese.pdf",
+    "Inglese",
+    "Sistemi e reti/Programma Lab Sistemi.pdf",
+    "Storia",
     "Home Page.md",
+    "Tepsit/Appunti TEPSIT.md",
     "Tepsit/Annotazioni Web Application e JAX-RS.md",
-    "Tepsit/Programma Tepsit.pdf",
     "assets/WhatsApp Image 2022-12-11 at 17.34.39.jpeg",
     "assets/home.jpg",
     "Early American History.md",
-    "Sistemi e reti/Programma Sistemi.pdf",
     "Bathroom Remodel.md",
     "home.jpg.md",
     "Informatica/Modello Er.md",
@@ -172,7 +179,6 @@
     "Tepsit/Sistemi Distribuiti.md",
     "Tepsit/Tecnologie e Protocolli di rete.md",
     "Informatica/Templater.md",
-    "Templates",
     "assets/db.png",
     "assets/Cattura.png",
     "assets/Cattura 9.png",
@@ -181,12 +187,6 @@
     "assets/Cattura 6.png",
     "assets/Cattura 5.png",
     "assets/Cattura 4.png",
-    "assets",
-    "Cattura.png.md",
-    "Italiano",
-    "Storia",
-    "Tepsit",
-    "Sistemi e reti",
-    "Informatica"
+    "Cattura.png.md"
   ]
 }
