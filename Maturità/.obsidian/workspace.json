@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3c63ba51331858",
+        "id": "803b6e194384a7ad",
         "type": "tabs",
         "children": [
           {
-            "id": "261cf30b8d03614c",
+            "id": "8b90e4277ff97791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "Informatica/Archivi.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Informatica/Archivi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Informatica/Archivi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Informatica/Archivi.md"
               }
             }
           }
@@ -149,46 +149,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "261cf30b8d03614c",
+  "active": "8b90e4277ff97791",
   "lastOpenFiles": [
-    "Italiano/Programma Italiano.pdf",
     "Home Page.md",
+    "Informatica/Archivi.md",
+    "Informatica/Programma Informatica.pdf",
+    "Informatica/Modello Er.md",
+    "assets/Cattura 4.png",
+    "assets/albero.png",
+    "assets/inv.png",
+    "assets/diretto.png",
+    "assets/lista.png",
+    "assets/Cattura.png",
+    "assets/db.png",
+    "assets/coppie.png",
+    "assets/parallela.png",
+    "Informatica/Gli Archivi.md",
+    "Informatica/Sql.md",
+    "Tepsit/Programma Tepsit.pdf",
+    "Sistemi e reti/Programma Sistemi.pdf",
     "Storia/Programma Storia.pdf",
+    "Italiano/Programma Italiano.pdf",
     "Olga Olson.md",
     "Impresa/Programma Impresa.pdf",
     "Impresa",
     "Nuova cartella",
     "Matematica/Programma Matematica.pdf",
     "Matematica",
-    "Inglese/Programma Inglese.pdf",
-    "Inglese",
-    "Sistemi e reti/Programma Lab Sistemi.pdf",
     "Tepsit/Appunti TEPSIT.md",
     "Tepsit/Annotazioni Web Application e JAX-RS.md",
     "assets/WhatsApp Image 2022-12-11 at 17.34.39.jpeg",
-    "assets/home.jpg",
     "Early American History.md",
     "Bathroom Remodel.md",
     "home.jpg.md",
-    "Informatica/Modello Er.md",
     "Sistemi e reti/Iso 27001 e Cloud Computing.md",
     "Sistemi e reti/Dmz,Trust.md",
     "Sistemi e reti/Appunti verifica.md",
     "Templates/Note.md",
     "Sistemi e reti/Windows Server.md",
-    "Informatica/Sql.md",
     "Sistemi e reti/Java Web Socket.md",
     "Tepsit/Sistemi Distribuiti.md",
     "Tepsit/Tecnologie e Protocolli di rete.md",
     "Informatica/Templater.md",
-    "assets/db.png",
-    "assets/Cattura.png",
-    "assets/Cattura 9.png",
-    "assets/Cattura 8.png",
-    "assets/Cattura 7.png",
-    "assets/Cattura 6.png",
-    "assets/Cattura 5.png",
-    "assets/Cattura 4.png",
     "Cattura.png.md"
   ]
 }

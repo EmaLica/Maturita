@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "ITS Theme",
+  "cssTheme": "Dracula for Obsidian",
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength"

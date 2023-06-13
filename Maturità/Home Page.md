@@ -59,10 +59,8 @@ banner_y: 0
 	- [[Spanish - Entry Level]]
 
 # Informatica
-- 💼 Projects
-	- [[Cloud backup]]
-	- [[Firewall upgrades]]
-	- [[IT Cybersecurity training]]
+- 💼 Archivi sequenziali, liste, alberi ecc
+	- [[Archivi]]
 - 💰 Budget review
 	- [[Q1 2022]]
 	- [[Q2 2022]]
