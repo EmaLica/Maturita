@@ -61,28 +61,26 @@ banner_y: 0
 # Informatica
 - To Do
 	- [x] Archivi ✅ 2023-06-13
-	- [ ] Database
-	- [ ] DDL
-	- [ ] DML
-	- [ ] SQL
-	- [ ] Ajax
-	- [ ] Sessioni in Php
-	- [ ] Accesso al db con php
-	- [ ] Crud in MySql
-	- [ ] Prepared Query
-	- [ ] SQL Injection
+	- [x] Database ✅ 2023-06-14
+	- [x] DDL ✅ 2023-06-14
+	- [x] DML ✅ 2023-06-14
+	- [x] SQL ✅ 2023-06-14
+	- [x] Ajax ✅ 2023-06-14
+	- [x] Sessioni in Php ✅ 2023-06-14
+	- [x] Accesso al db con php ✅ 2023-06-14
+	- [x] Crud in MySql ✅ 2023-06-14
+	- [x] Prepared Query ✅ 2023-06-14
+	- [x] SQL Injection ✅ 2023-06-14
+	- [ ] Guida Entity Relationship
 - 💼 Archivi sequenziali, liste, alberi ecc
 	- [[Archivi Informatici]]
-- 💰 Budget review
-	- [[Q1 2022]]
-	- [[Q2 2022]]
-	- [[Q3 2022]]
-	- [[Q4 2022]]
-- 👥 Personnel Review
-	- [[Sally Smith]]
-	- [[Bill Hansen]]
-	- [[Brad Jefferson]]
-	- [[Olga Olson]]
+- 💰 Database e Sistemi Informativi
+	- [[Database e Sistemi Informativi]]
+- 👥 Linguaggi
+	- [[Php e Ajax]]
+	- [[Sql]]
+- ⛔ Modello Entity Relationship
+	- [[Guida Modello ER]]
 
 # Storia
 - 💼 Volume 2

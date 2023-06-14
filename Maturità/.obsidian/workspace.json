@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guida Modello ER.md",
-                "mode": "source",
+                "file": "Home Page.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guida Modello ER.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guida Modello ER.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guida Modello ER.md"
+                "file": "Home Page.md"
               }
             }
           }
@@ -186,12 +186,12 @@
   },
   "active": "620f10d1170848eb",
   "lastOpenFiles": [
-    "Informatica/Php e Ajax.md",
-    "Guida Modello ER.md",
     "Informatica/Programma Informatica.pdf",
+    "Home Page.md",
+    "Informatica/Guida Modello ER.md",
+    "Informatica/Php e Ajax.md",
     "Informatica/Database e Sistemi Informativi.md",
     "Informatica/Archivi Informatici.md",
-    "Home Page.md",
     "Informatica/Sql.md",
     "Informatica/Guida ER.md",
     "Informatica/Progettazione DB.md",
@@ -230,7 +230,6 @@
     "Sistemi e reti/Java Web Socket.md",
     "Tepsit/Sistemi Distribuiti.md",
     "Tepsit/Tecnologie e Protocolli di rete.md",
-    "Informatica/Templater.md",
-    "Cattura.png.md"
+    "Informatica/Templater.md"
   ]
 }
