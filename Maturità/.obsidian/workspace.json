@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "803b6e194384a7ad",
+        "id": "9d3646299f36a392",
         "type": "tabs",
         "children": [
           {
-            "id": "8b90e4277ff97791",
+            "id": "620f10d1170848eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Archivi.md",
-                "mode": "preview",
+                "file": "Guida Modello ER.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Archivi.md",
+                "file": "Guida Modello ER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Archivi.md",
+                "file": "Guida Modello ER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Archivi.md"
+                "file": "Guida Modello ER.md"
               }
             }
           }
@@ -149,12 +149,61 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b90e4277ff97791",
+  "floating": {
+    "id": "078a3e5aa4ac973e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bedd8bc638098ea8",
+        "type": "window",
+        "children": [
+          {
+            "id": "2050629ccab44695",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b9b1a9b865151acd",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Informatica/Programma Informatica.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 480,
+        "y": 14,
+        "width": 1576,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "620f10d1170848eb",
   "lastOpenFiles": [
-    "Home Page.md",
-    "Informatica/Archivi.md",
+    "Informatica/Php e Ajax.md",
+    "Guida Modello ER.md",
     "Informatica/Programma Informatica.pdf",
-    "Informatica/Modello Er.md",
+    "Informatica/Database e Sistemi Informativi.md",
+    "Informatica/Archivi Informatici.md",
+    "Home Page.md",
+    "Informatica/Sql.md",
+    "Informatica/Guida ER.md",
+    "Informatica/Progettazione DB.md",
+    "assets/gerarchie.jpeg",
+    "Storia/Programma Storia.pdf",
+    "To Do List.md",
+    "Tepsit/Annotazioni Web Application e JAX-RS.md",
+    "Tepsit/Programma Tepsit.pdf",
+    "Sistemi e reti/Programma Sistemi.pdf",
+    "Sistemi e reti/Programma Lab Sistemi.pdf",
+    "Italiano/Programma Italiano.pdf",
+    "Italiano/Programma Italiano 1.pdf",
     "assets/Cattura 4.png",
     "assets/albero.png",
     "assets/inv.png",
@@ -165,20 +214,11 @@
     "assets/coppie.png",
     "assets/parallela.png",
     "Informatica/Gli Archivi.md",
-    "Informatica/Sql.md",
-    "Tepsit/Programma Tepsit.pdf",
-    "Sistemi e reti/Programma Sistemi.pdf",
-    "Storia/Programma Storia.pdf",
-    "Italiano/Programma Italiano.pdf",
     "Olga Olson.md",
     "Impresa/Programma Impresa.pdf",
     "Impresa",
     "Nuova cartella",
-    "Matematica/Programma Matematica.pdf",
-    "Matematica",
     "Tepsit/Appunti TEPSIT.md",
-    "Tepsit/Annotazioni Web Application e JAX-RS.md",
-    "assets/WhatsApp Image 2022-12-11 at 17.34.39.jpeg",
     "Early American History.md",
     "Bathroom Remodel.md",
     "home.jpg.md",

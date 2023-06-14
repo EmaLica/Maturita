@@ -59,8 +59,20 @@ banner_y: 0
 	- [[Spanish - Entry Level]]
 
 # Informatica
+- To Do
+	- [x] Archivi ✅ 2023-06-13
+	- [ ] Database
+	- [ ] DDL
+	- [ ] DML
+	- [ ] SQL
+	- [ ] Ajax
+	- [ ] Sessioni in Php
+	- [ ] Accesso al db con php
+	- [ ] Crud in MySql
+	- [ ] Prepared Query
+	- [ ] SQL Injection
 - 💼 Archivi sequenziali, liste, alberi ecc
-	- [[Archivi]]
+	- [[Archivi Informatici]]
 - 💰 Budget review
 	- [[Q1 2022]]
 	- [[Q2 2022]]

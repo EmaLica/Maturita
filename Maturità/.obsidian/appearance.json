@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength"
-  ]
+  ],
+  "baseFontSize": 16
 }

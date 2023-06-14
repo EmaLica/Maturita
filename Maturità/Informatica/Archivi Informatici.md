@@ -1,18 +1,17 @@
 ---
 Data: 13th June 2023
-Descrizione: archivi
+Descrizione: archivi sequenziali, lista, accesso diretto, invertiti, albero
 ---
 ## Cos'è un archivio
-Un archivio è una collezione di dati organizzati e strutturati in modo da consentire l'efficiente gestione, l'accesso e l'elaborazione delle informazioni in esso contenute. Gli archivi sono spesso utilizzati per conservare dati persistenti nel tempo.
+**Un archivio è una collezione di dati organizzati e strutturati** in modo da consentire l'efficiente gestione, l'accesso e l'elaborazione delle informazioni in esso contenute. Gli archivi sono spesso utilizzati per **conservare dati persistenti nel tempo**.
 ## Archivi Sequenziali
-Per archivio sequenziale si intende una organizzazione di dati su memoria di massa in cui le registrazioni possono essere pensate come disposte in blocchi contigui e in cui ogni elemento, eccetto l'ultimo, ne ha uno e uno solo che lo segue.
-
+Per archivio sequenziale **si intende una organizzazione di dati su memoria di massa in cui le registrazioni possono essere pensate come disposte in blocchi contigui** e in cui ogni elemento, eccetto l'ultimo, ne ha uno e uno solo che lo segue.
 - Negli archivi sequenziali è sempre possibile definire un ordine fisico di registrazione, facendo riferimento alla successione fisica delle registrazioni sul supporto di memoria.
 - Si parla, invece, di ordine logico tra le registrazioni quando, su uno o più campi, è possibile definire un criterio di ordinamento.
 - Quando l’ordine logico coincide con l'ordine fisico, l’archivio verrà detto sequenziale ordinato, altrimenti sequenziale non ordinato o seriale.
 #### Supporti di memorizzazione
 Il tipo di supporto di memorizzazione a disposizione condiziona il metodo di accesso ad un record posto all'interno dell'archivio principale.
-Infatti, se nel caso dei nastri magnetici è possibile accedere ad una registrazione solo dopo aver elaborato la precedente (metodo di accesso sequenziale), con i dischi si può utilizzare anche una modalità che rende praticamente indipendente il tempo di accesso dalla posizione occupata dal record sul supporto di memoria (metodo di accesso diretto).
+Infatti, se nel caso dei **nastri magnetici** è possibile **accedere ad una registrazione solo dopo aver elaborato la precedente (metodo di accesso sequenziale)**, con i **dischi** si può utilizzare anche una modalità che rende praticamente indipendente il tempo di accesso dalla posizione occupata dal record sul supporto di memoria **(metodo di accesso diretto)**.
 #### Operazioni 
 **creazione e caricamento**
 Nel caso degli archivi sequenziali queste operazioni risultano molto elementari, in quanto consistono semplicemente nella generazione di un archivio vuoto e in un ciclo di caricamento in cui i singoli record vengono registrati in modo sequenziale. Nel caso in cui si voglia lavorare con archivi sequenziali ordinati, sarà necessario far seguire questa fase da una di ordinamento o ricorrere ad un inserimento ordinato.
@@ -126,3 +125,10 @@ La procedura di ricerca (ricorsiva) può essere schematizzata come segue:
 **Inserimento e cancellazione**
 Sia l’aggiunta di un record di chiave k sia la sua cancellazione comportano la preventiva ricerca della chiave k tra quelle memorizzate; nel primo caso, l'operazione potrebbe causare l'aumento del numero di nodi (inserimento in una pagina satura e relativo sdoppiamento ) mentre nel secondo la loro diminuzione(concatenazione di due pagine).
 Infatti, in questo caso i tempi medi di ricerca sono paragonabili a quelli delle organizzazioni casuali, con l'ulteriore vantaggio di poter predire anche il numero massimo di accessi necessari per poter raggiungere una registrazione.
+## Limiti degli archivi
+Gli archivi presentano alcuni limiti che possono influire sulla loro efficacia e prestazioni. Ecco alcuni dei principali limiti degli archivi:
+
+1. Dimensione e occupazione di memoria: Gli archivi possono diventare ingenti in termini di dimensioni e occupazione di memoria, soprattutto quando contengono grandi quantità di dati. Questo può comportare problemi di gestione della memoria e richiedere risorse hardware significative.
+2. Tempi di accesso: A seconda dell'organizzazione dell'archivio e del tipo di operazioni effettuate (inserimento, cancellazione, interrogazione), i tempi di accesso possono variare. Alcune strutture possono richiedere scorrimenti o operazioni complesse per accedere ai dati desiderati, rallentando l'efficienza delle operazioni.
+3. Operazioni di modifica: Le operazioni di modifica degli archivi possono essere laboriose, soprattutto in strutture sequenziali o ordinate, dove è necessario spostare o riscrivere i dati esistenti per inserire o eliminare un elemento. Ciò può comportare una penalizzazione delle prestazioni e richiedere maggiori risorse computazionali.
+4. Mantenimento dell'ordine e dell'integrità: Nel caso di archivi ordinati, è necessario garantire il mantenimento dell'ordine dei dati. Ciò può richiedere complesse operazioni di riallocazione o riorganizzazione dell'archivio in seguito a modifiche o inserimenti. Inoltre, è fondamentale preservare l'integrità dei dati, evitando duplicati o errori di memorizzazione.

@@ -16,7 +16,7 @@ public class ChatEndpoint {
  
     private Session session;
     private static Set<ChatEndpoint> chatEndpoints 
-      = new CopyOnWriteArraySet<>();
+    = new CopyOnWriteArraySet<>();
     private static HashMap<String, String> users = new HashMap<>();
 
     @OnOpen
