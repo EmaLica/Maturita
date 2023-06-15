@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d3646299f36a392",
+        "id": "1a239c882e51adb2",
         "type": "tabs",
         "children": [
           {
-            "id": "620f10d1170848eb",
+            "id": "537e28f26c5a332f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,59 +149,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "078a3e5aa4ac973e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bedd8bc638098ea8",
-        "type": "window",
-        "children": [
-          {
-            "id": "2050629ccab44695",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b9b1a9b865151acd",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Informatica/Programma Informatica.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 480,
-        "y": 14,
-        "width": 1576,
-        "height": 992,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "620f10d1170848eb",
+  "active": "537e28f26c5a332f",
   "lastOpenFiles": [
-    "Informatica/Programma Informatica.pdf",
-    "Home Page.md",
-    "Informatica/Guida Modello ER.md",
     "Informatica/Php e Ajax.md",
+    "Sistemi e reti/Programma Sistemi.pdf",
+    "Tepsit/Annotazioni Web Application e JAX-RS.md",
+    "Home Page.md",
+    "Sistemi e reti/Livello di Trasporto.md",
     "Informatica/Database e Sistemi Informativi.md",
     "Informatica/Archivi Informatici.md",
+    "Informatica/Archivi Informatici.html",
+    "Sistemi e reti/Socket e WebSocket.md",
+    "Da Mettere a posto/Java Web Socket.md",
+    "Da Mettere a posto/Iso 27001 e Cloud Computing.md",
+    "Da Mettere a posto/Dmz,Trust.md",
+    "Sistemi e reti/Internet Working.md",
+    "Da Mettere a posto/Appunti verifica.md",
+    "Da Mettere a posto",
+    "Informatica/Programma Informatica.pdf",
+    "Sistemi e reti/DHCP, DNS, http(s) e sessioni con cookie.md",
+    "Untitled.md",
+    "Sistemi e reti/Programma Lab Sistemi.pdf",
+    "Informatica/Guida Modello ER.md",
     "Informatica/Sql.md",
     "Informatica/Guida ER.md",
     "Informatica/Progettazione DB.md",
     "assets/gerarchie.jpeg",
     "Storia/Programma Storia.pdf",
     "To Do List.md",
-    "Tepsit/Annotazioni Web Application e JAX-RS.md",
     "Tepsit/Programma Tepsit.pdf",
-    "Sistemi e reti/Programma Sistemi.pdf",
-    "Sistemi e reti/Programma Lab Sistemi.pdf",
     "Italiano/Programma Italiano.pdf",
     "Italiano/Programma Italiano 1.pdf",
     "assets/Cattura 4.png",
@@ -216,20 +192,9 @@
     "Informatica/Gli Archivi.md",
     "Olga Olson.md",
     "Impresa/Programma Impresa.pdf",
-    "Impresa",
-    "Nuova cartella",
     "Tepsit/Appunti TEPSIT.md",
     "Early American History.md",
     "Bathroom Remodel.md",
-    "home.jpg.md",
-    "Sistemi e reti/Iso 27001 e Cloud Computing.md",
-    "Sistemi e reti/Dmz,Trust.md",
-    "Sistemi e reti/Appunti verifica.md",
-    "Templates/Note.md",
-    "Sistemi e reti/Windows Server.md",
-    "Sistemi e reti/Java Web Socket.md",
-    "Tepsit/Sistemi Distribuiti.md",
-    "Tepsit/Tecnologie e Protocolli di rete.md",
-    "Informatica/Templater.md"
+    "home.jpg.md"
   ]
 }

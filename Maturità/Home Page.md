@@ -29,10 +29,18 @@ banner_y: 0
 	- [[Annotazioni Web Application e JAX-RS]]
 
 # Sistemi e Reti
+- To Do
+	- [x] Livello di trasporto ✅ 2023-06-15
+	- [ ] Socket in Java
+	- [ ] Protocolli del Livello Applicazione
+	- [ ] Internet Working
+	- [ ] ISO 27001
+	- [ ] Macchine Virtuali
+	- [ ] Sicurezza Informatica
+	- [ ] Protocolli per la Sicurezza
+	- [ ] GDPR
 - 🚚 Livello di Trasporto
-	- [[Bathroom Remodel]]
-	- [[Paint entryway]]
-	- [[Research building Garage]] 
+	- [[Livello di Trasporto]]
 - ♨️ Socket in Java
 	- [[Early American History]]
 	- [[Spanish - Entry Level]]
@@ -140,17 +148,7 @@ banner_y: 0
 	- a 
 - Il primo novecento
 	- a 
-# Matematica
-- 💼 Volume 2
-	- Unificazione dell'Italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
 # Impresa
-- 💼 Volume 2
-	- Unificazione dell'italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
-# Inglese
 - 💼 Volume 2
 	- Unificazione dell'italia
 	- La seconda Rivoluzione industriale
