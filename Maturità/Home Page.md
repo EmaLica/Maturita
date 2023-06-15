@@ -4,6 +4,51 @@ banner: "![[home.jpg]]"
 banner_x: 0.5
 banner_y: 0
 ---
+# Informatica
+- To Do
+	- [ ] Guida Entity Relationship
+- 💼 Archivi sequenziali, liste, alberi ecc
+	- [[Archivi Informatici]]
+- 💰 Database e Sistemi Informativi
+	- [[Database e Sistemi Informativi]]
+- 👥 Linguaggi
+	- [[Php e Ajax]]
+	- [[Sql]]
+- ⛔ Modello Entity Relationship
+	- [[Guida Modello ER]]
+
+# Sistemi e Reti
+- To Do
+	- [ ] Internet Working
+	- [ ] ISO 27001
+	- [ ] Macchine Virtuali
+	- [ ] Sicurezza Informatica
+	- [ ] Protocolli per la Sicurezza
+	- [ ] GDPR
+- 🚚 Livello di Trasporto
+	- [[Livello di Trasporto]]
+- ♨️ Socket in Java
+	- [[Socket in Java]]
+- 📱 Protocolli del Livello Applicazione
+	- [[Protocolli del livello applicazione]]
+- 🌐 Internet Working
+	- [[Early American History]]
+	- [[Spanish - Entry Level]]
+- 🚷 ISO 27001
+	- [[Early American History]]
+	- [[Spanish - Entry Level]]
+ - 🚓 Macchine Virtuali
+	- [[5 ways to love PKM more]]
+	- Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
+- 🔏 Sicurezza Informatica
+	- [[Early American History]]
+	- [[Spanish - Entry Level]]
+ - ⛔ Protocolli per la Sicurezza
+	- [[Early American History]]
+	- [[Spanish - Entry Level]]
+ - 🪪 GDPR
+	- [[Early American History]]
+	- [[Spanish - Entry Level]]
 
 # Tepsit
 - 💻 Sistemi Distribuiti
@@ -28,67 +73,6 @@ banner_y: 0
 - 🌐 WebApplication
 	- [[Annotazioni Web Application e JAX-RS]]
 
-# Sistemi e Reti
-- To Do
-	- [x] Livello di trasporto ✅ 2023-06-15
-	- [ ] Socket in Java
-	- [ ] Protocolli del Livello Applicazione
-	- [ ] Internet Working
-	- [ ] ISO 27001
-	- [ ] Macchine Virtuali
-	- [ ] Sicurezza Informatica
-	- [ ] Protocolli per la Sicurezza
-	- [ ] GDPR
-- 🚚 Livello di Trasporto
-	- [[Livello di Trasporto]]
-- ♨️ Socket in Java
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
-- 📱 Protocolli del Livello Applicazione
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
-- 🌐 Internet Working
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
-- 🚷 ISO 27001
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
- - 🚓 Macchine Virtuali
-	- [[5 ways to love PKM more]]
-	- Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
-- 🔏 Sicurezza Informatica
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
- - ⛔ Protocolli per la Sicurezza
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
- - 🪪 GDPR
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
-
-# Informatica
-- To Do
-	- [x] Archivi ✅ 2023-06-13
-	- [x] Database ✅ 2023-06-14
-	- [x] DDL ✅ 2023-06-14
-	- [x] DML ✅ 2023-06-14
-	- [x] SQL ✅ 2023-06-14
-	- [x] Ajax ✅ 2023-06-14
-	- [x] Sessioni in Php ✅ 2023-06-14
-	- [x] Accesso al db con php ✅ 2023-06-14
-	- [x] Crud in MySql ✅ 2023-06-14
-	- [x] Prepared Query ✅ 2023-06-14
-	- [x] SQL Injection ✅ 2023-06-14
-	- [ ] Guida Entity Relationship
-- 💼 Archivi sequenziali, liste, alberi ecc
-	- [[Archivi Informatici]]
-- 💰 Database e Sistemi Informativi
-	- [[Database e Sistemi Informativi]]
-- 👥 Linguaggi
-	- [[Php e Ajax]]
-	- [[Sql]]
-- ⛔ Modello Entity Relationship
-	- [[Guida Modello ER]]
 
 # Storia
 - 💼 Volume 2
