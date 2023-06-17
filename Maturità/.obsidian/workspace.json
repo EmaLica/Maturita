@@ -4,17 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b61909ca9ffb45be",
+        "id": "dae9bd78232d910a",
         "type": "tabs",
         "children": [
           {
-            "id": "2a60a27eafe96784",
+            "id": "849a24494c597e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e reti/Protocolli del livello applicazione.md",
+                "file": "Sistemi e reti/Sicurezza informatica.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f608a5830b0c3f11",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sistemi e reti/Programma Sistemi.pdf"
+              }
+            }
+          },
+          {
+            "id": "04e96b453e008f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e reti/Protocolli del livello applicazione.md",
+                "file": "Sistemi e reti/Sicurezza informatica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e reti/Protocolli del livello applicazione.md",
+                "file": "Sistemi e reti/Sicurezza informatica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e reti/Protocolli del livello applicazione.md"
+                "file": "Sistemi e reti/Sicurezza informatica.md"
               }
             }
           }
@@ -149,38 +171,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a60a27eafe96784",
+  "active": "849a24494c597e4f",
   "lastOpenFiles": [
     "Home Page.md",
-    "Sistemi e reti/Programma Sistemi.pdf",
-    "Sistemi e reti/Socket in Java.md",
-    "Sistemi e reti/Livello di Trasporto.md",
-    "Sistemi e reti/Protocolli del livello applicazione.md",
     "Tepsit/Programma Tepsit.pdf",
-    "Sistemi e reti/Untitled.md",
+    "Sistemi e reti/Sicurezza informatica.md",
+    "Da Mettere a posto/Iso 27001 e Cloud Computing.md",
+    "Sistemi e reti/Programma Sistemi.pdf",
+    "Sistemi e reti/Protocolli per la sicurezza.md",
+    "Sistemi e reti/GDPR.md",
+    "Sistemi e reti/Macchine virtuali.md",
+    "Sistemi e reti/ISO 27001.md",
+    "Sistemi e reti/Internet Working.md",
+    "Sistemi e reti/Macchine.md",
+    "Da Mettere a posto/Appunti verifica.md",
+    "Da Mettere a posto/Java Web Socket.md",
+    "Sistemi e reti/Socket in Java.md",
+    "Sistemi e reti/Protocolli del livello applicazione.md",
+    "Da Mettere a posto/Dmz,Trust.md",
+    "Informatica/Sql.md",
+    "Informatica/Database e Sistemi Informativi.md",
+    "Informatica/Archivi Informatici.md",
+    "Sistemi e reti/Livello di Trasporto.md",
     "Sistemi e reti/Socket i.md",
     "Informatica/Php e Ajax.md",
     "Tepsit/Annotazioni Web Application e JAX-RS.md",
-    "Informatica/Database e Sistemi Informativi.md",
-    "Informatica/Archivi Informatici.md",
     "Informatica/Archivi Informatici.html",
     "Sistemi e reti/Socket e WebSocket.md",
-    "Da Mettere a posto/Java Web Socket.md",
-    "Da Mettere a posto/Iso 27001 e Cloud Computing.md",
-    "Da Mettere a posto/Dmz,Trust.md",
-    "Sistemi e reti/Internet Working.md",
-    "Da Mettere a posto/Appunti verifica.md",
     "Da Mettere a posto",
     "Informatica/Programma Informatica.pdf",
     "Sistemi e reti/DHCP, DNS, http(s) e sessioni con cookie.md",
     "Sistemi e reti/Programma Lab Sistemi.pdf",
     "Informatica/Guida Modello ER.md",
-    "Informatica/Sql.md",
     "Informatica/Guida ER.md",
-    "Informatica/Progettazione DB.md",
     "assets/gerarchie.jpeg",
     "Storia/Programma Storia.pdf",
-    "To Do List.md",
     "Italiano/Programma Italiano.pdf",
     "Italiano/Programma Italiano 1.pdf",
     "assets/Cattura 4.png",
@@ -192,9 +217,6 @@
     "assets/db.png",
     "assets/coppie.png",
     "assets/parallela.png",
-    "Informatica/Gli Archivi.md",
-    "Olga Olson.md",
-    "Impresa/Programma Impresa.pdf",
-    "Tepsit/Appunti TEPSIT.md"
+    "Impresa/Programma Impresa.pdf"
   ]
 }

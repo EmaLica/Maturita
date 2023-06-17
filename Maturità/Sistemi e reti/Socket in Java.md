@@ -3,7 +3,7 @@ Data: 15th June 2023
 Descrizione: realizzazione di applicazione con l’uso di Socket e WebSocket in Java
 ---
 # UDP Client/Server
-## Server UDP
+### Server UDP
 ```java
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
@@ -36,7 +36,7 @@ public class UDPServer {
     }
 }
 ```
-## Client UDP
+### Client UDP
 ```java
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
@@ -72,7 +72,7 @@ public class UDPClient {
 }
 ```
 # TCP Client/Server
-## Server TCP
+### Server TCP
 ```java
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -110,7 +110,7 @@ public class TCPServer {
     }
 }
 ```
-## Client TCP
+### Client TCP
 ```java
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -219,5 +219,5 @@ UPDATE Prodotti
 SET Prezzo = 600
 WHERE Categoria = 'Elettronica';
 ```
-#### Query Language
+#### Query Language [[Sql]]
 Il linguaggio di interrogazione (Query Language o QL) viene utilizzato per estrarre dati da una o più tabelle all'interno di un database.

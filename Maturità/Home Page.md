@@ -19,12 +19,10 @@ banner_y: 0
 
 # Sistemi e Reti
 - To Do
-	- [ ] Internet Working
-	- [ ] ISO 27001
-	- [ ] Macchine Virtuali
 	- [ ] Sicurezza Informatica
 	- [ ] Protocolli per la Sicurezza
 	- [ ] GDPR
+	- [ ] Ripasso anni precedenti
 - 🚚 Livello di Trasporto
 	- [[Livello di Trasporto]]
 - ♨️ Socket in Java
@@ -32,23 +30,17 @@ banner_y: 0
 - 📱 Protocolli del Livello Applicazione
 	- [[Protocolli del livello applicazione]]
 - 🌐 Internet Working
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
+	- [[Internet Working]]
 - 🚷 ISO 27001
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
+	- [[ISO 27001]]
  - 🚓 Macchine Virtuali
-	- [[5 ways to love PKM more]]
-	- Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
+	- [[Macchine virtuali]]
 - 🔏 Sicurezza Informatica
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
+	- [[Sicurezza informatica]]
  - ⛔ Protocolli per la Sicurezza
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
+	- [[Protocolli per la sicurezza]]
  - 🪪 GDPR
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
+	- [[GDPR]]
 
 # Tepsit
 - 💻 Sistemi Distribuiti
