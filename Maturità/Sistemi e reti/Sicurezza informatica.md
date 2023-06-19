@@ -54,16 +54,12 @@ Ci sono diverse modalità di autenticazione crittografica:
 
 La firma digitale associa un messaggio a un mittente utilizzando la crittografia asimmetrica. I certificati digitali contengono informazioni identificative e chiavi pubbliche di entità, e possono essere verificati tramite firme digitali. Lo scambio di chiavi segrete coinvolge la condivisione di una chiave segreta per crittografare e decrittografare i dati. Questi metodi di autenticazione crittografica forniscono sicurezza e garantiscono che solo le parti legittime possano accedere ai dati crittografati.
 
-###### Con Alice e Bob
-- Bob genera una coppia di chiavi crittografiche: chiave pubblica e chiave privata.
-- Alice richiede la chiave pubblica di Bob da una fonte affidabile.
-- Alice crittografa il messaggio utilizzando la chiave pubblica di Bob per garantire la riservatezza.
-- Alice firma digitalmente il messaggio crittografato utilizzando la sua chiave privata.
-- Alice invia il messaggio crittografato e la firma digitale a Bob.
-- Bob riceve il messaggio crittografato e la firma digitale di Alice.
-- Bob utilizza la chiave pubblica di Alice per verificare la firma digitale.
-- Se la firma digitale è valida, Bob conferma l'autenticità del messaggio inviato da Alice.
-- Bob utilizza la sua chiave privata per decrittografare il messaggio ricevuto.
-- Bob può leggere il messaggio originale in modo sicuro e autenticato.
+###### Sfida-Risposta con Alice e Bob
+L'autenticazione a sfida-risposta è un metodo di autenticazione che coinvolge due parti, Alice e Bob, per verificare reciprocamente le rispettive identità. Funziona nel seguente modo:
 
-In sintesi, Alice utilizza la chiave pubblica di Bob per crittografare il messaggio e firma digitalmente il messaggio crittografato con la sua chiave privata. Bob verifica la firma digitale utilizzando la chiave pubblica di Alice e decrittografa il messaggio utilizzando la sua chiave privata. Questo processo garantisce la riservatezza, l'autenticità e l'integrità della comunicazione tra Bob e Alice.
+1. Bob genera una sfida: Bob genera una sfida casuale, un dato univoco e casuale che invia ad Alice come richiesta di autenticazione.
+2. Alice risponde alla sfida: Alice riceve la sfida di Bob e utilizza una funzione crittografica (come HMAC) per elaborare la sfida insieme alla sua chiave segreta. Il risultato di questa elaborazione viene chiamato "risposta".
+3. Alice invia la risposta a Bob: Alice invia la risposta generata a Bob come prova della sua identità.
+4. Bob verifica la risposta: Bob riceve la risposta di Alice e utilizza la stessa funzione crittografica e la chiave segreta di Alice per elaborare la sfida originale. Se la risposta di Alice coincide con il risultato calcolato da Bob, l'autenticazione è considerata riuscita.
+
+Questo metodo di autenticazione a sfida-risposta è efficace perché richiede che Alice dimostri di possedere la conoscenza della chiave segreta senza trasmetterla esplicitamente. Inoltre, la sfida casuale assicura che la risposta non possa essere riutilizzata in un attacco di riproduzione.

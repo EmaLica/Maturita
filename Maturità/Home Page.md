@@ -5,8 +5,6 @@ banner_x: 0.5
 banner_y: 0
 ---
 # Informatica
-- To Do
-	- [ ] Guida Entity Relationship
 - 💼 Archivi sequenziali, liste, alberi ecc
 	- [[Archivi Informatici]]
 - 💰 Database e Sistemi Informativi
@@ -15,13 +13,10 @@ banner_y: 0
 	- [[Php e Ajax]]
 	- [[Sql]]
 - ⛔ Modello Entity Relationship
-	- [[Guida Modello ER]]
+	- [[Guida Modello Entity-Relationship]]
 
 # Sistemi e Reti
 - To Do
-	- [ ] Sicurezza Informatica
-	- [ ] Protocolli per la Sicurezza
-	- [ ] GDPR
 	- [ ] Ripasso anni precedenti
 - 🚚 Livello di Trasporto
 	- [[Livello di Trasporto]]
@@ -44,27 +39,21 @@ banner_y: 0
 
 # Tepsit
 - 💻 Sistemi Distribuiti
-	- [[Guest list]]
-	- [Jalapeno Popper Wantons](https://www.allrecipes.com/recipe/166991/jalapeno-popper-wontons/)
+	- [[I sistemi distribuiti]]
 - 💭 Tecnologie e protocolli di rete
-	- [[Family Recipes]]
-	- [[Family Calendar]]
-	- [[Education Plan]]
-	- [[Yearly Budget]]
+	- [[Tecnologie e protocolli di rete]]
 - ♨️ Linguaggio Java
-	- [Sleepless in Seattle](https://www.imdb.com/title/tt0108160/)
-	- [Joe vs the Volcano](https://www.imdb.com/title/tt0099892/)
+	- [[Linguaggio Java]]
 - 📋 Gestione documenti in formato XML e JSON
-	- 
-- 📱 WebService Rest e WebApplication
-	- 
+	- [[XML e JSON]]
+- 📱 WebService REST e WebApplication
+	- [[WebService REST e WebApplication]]
 - 💽 Sistemi ORM in java
-	- 
+	- [[Sistemi ORM in java]]
 - 📶 Web Service
 	- 
 - 🌐 WebApplication
 	- [[Annotazioni Web Application e JAX-RS]]
-
 
 # Storia
 - 💼 Volume 2
@@ -124,6 +113,7 @@ banner_y: 0
 	- a 
 - Il primo novecento
 	- a 
+
 # Impresa
 - 💼 Volume 2
 	- Unificazione dell'italia
