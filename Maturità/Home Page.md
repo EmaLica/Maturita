@@ -51,8 +51,8 @@ banner_y: 0
 - 💽 Sistemi ORM in java
 	- [[Sistemi ORM in java]]
 - 📶 Web Service
-	- 
-- 🌐 WebApplication
+	- [[WebService]]
+- 🌐 WebApplication e JAX-RS
 	- [[Annotazioni Web Application e JAX-RS]]
 
 # Storia
