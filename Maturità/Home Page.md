@@ -76,43 +76,27 @@ banner_y: 0
 	- Articoli  
 # Italiano
 - 💼 Giacomo Leopardi
-	- Unificazione dell'Italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
+	- [[Giacomo Leopardi]]
 - 💼 Giovanni Verga
-	- Unificazione dell'Italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
+	- [[Giovanni Verga]]
 - 💼 Giovanni Pascoli
 	- Unificazione dell'Italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
 - 💼 Gabriele D'Annunzio
 	- Unificazione dell'italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
 - 💼 Luigi Pirandello
 	- Unificazione dell'italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
 - 💼 Italo Svevo
 	- Unificazione dell'italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
 - 💼 Giuseppe Ungaretti
 	- Unificazione dell'italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
 - 💼 Eugenio Montale
 	- Unificazione dell'Italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
 - Naturalismo francese e Verismo italiano
-	- a
+	- [[Naturalismo e Verismo]]
 - Simbolismo e Decadentismo
-	- a 
+	- 
 - Il primo novecento
-	- a 
+	- 
 
 # Impresa
 - 💼 Volume 2
