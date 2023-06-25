@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5438d10b1151704d",
+        "id": "f421ba26f017333d",
         "type": "tabs",
         "children": [
           {
-            "id": "b8cecb05c921a926",
+            "id": "22223e0d7d3189b3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Italiano/Programma Italiano.pdf"
+              }
+            }
+          },
+          {
+            "id": "3b2837ffee471d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "Italiano/Giovanni Verga.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Italiano/Giovanni Verga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Italiano/Giovanni Verga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Italiano/Giovanni Verga.md"
               }
             }
           }
@@ -149,13 +160,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8cecb05c921a926",
+  "active": "3b2837ffee471d47",
   "lastOpenFiles": [
     "Italiano/Programma Italiano.pdf",
+    "Italiano/Giovanni Verga.md",
+    "Italiano/Giacomo Leopardi.md",
     "Italiano/Naturalismo e Verismo.md",
     "Home Page.md",
-    "Italiano/Giacomo Leopardi.md",
-    "Italiano/Giovanni Verga.md",
     "Inglese/Programma Inglese.pdf",
     "Commissari.png",
     "Matematica/Programma Matematica.pdf",
