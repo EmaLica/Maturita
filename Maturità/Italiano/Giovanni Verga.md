@@ -2,6 +2,8 @@
 Data: 20th June 2023
 Descrizione: La vita. La poetica. Il “ciclo dei vinti”
 ---
+###### Collegamenti
+Storia: Unità d'Italia
 ## La vita
 Giovanni Verga è nato il **2 settembre 1840 a Catania**, in Sicilia, e è **morto il 27 gennaio 1922 a Catania**. È considerato uno dei più importanti scrittori italiani del XIX secolo e uno dei principali **rappresentanti** del **verismo**.
 
@@ -69,17 +71,48 @@ La novella descrive anche la **complessa relazione di Rosso con il padre**, che 
 "Rosso Malpelo" rappresenta un'indagine profonda sulle condizioni umane e sociali dell'epoca, mettendo in luce la **lotta per la sopravvivenza e l'isolamento dei personaggi emarginati**. La novella è apprezzata per la sua **scrittura realistica**, la **descrizione dettagliata dei luoghi e dei personaggi** e la capacità di Verga di rendere visibile il mondo interiore dei suoi protagonisti.
 
 ### Fantasticheria
-La storia di "Fantasticheria" ruota attorno all'**incontro tra un bambino povero di nome Jeli e un bambino benestante di nome Nino**. **Jeli è un ragazzo umile, figlio di pescatori**, che vive in una realtà fatta di **povertà e difficoltà**. **Nino, invece, è un bambino di famiglia ricca** che vive nel **lusso e nell'agiatezza**.
+In "Fantasticheria", il narratore scrive una lettera a un'amica proveniente da ambienti aristocratici e borghesi, raccontandole di un viaggio a Aci-Trezza. La **donna si mostra affascinata dal paesino**, **ma dopo appena quarantotto ore si stanca e non comprende come si possa vivere in un luogo del genere**.
 
-Nonostante le differenze sociali, i due ragazzi stringono amicizia e trascorrono del tempo insieme. **Jeli**, tuttavia, è **afflitto da una realtà difficile** e dalle responsabilità che lo aspettano nella sua condizione di povertà, mentre **Nino vive nel mondo delle fantasie e della spensieratezza** tipico della sua classe sociale.
+Il narratore cerca di spiegare alla donna le **difficoltà e la realtà della vita a Aci-Trezza**, **un popolo di umili pescatori**. La vita dei pescatori è fatta di stenti, miseria e sventure, molto diversa dagli ambienti lussuosi e festosi a cui la donna è abituata. Nonostante ciò, i **pescatori** hanno un **forte attaccamento alla loro terra** e desiderano morire nel loro cantuccio, vicino al focolare, piuttosto che allontanarsi da casa.
 
-La novella esplora il **divario sociale tra i due personaggi e le diverse prospettive che hanno sulla vita**. **Jeli** comprende la dura realtà della sua condizione sociale e si trova **costretto ad accettare la sua situazione** e le responsabilità che comporta, mentre **Nino, protetto dalla sua ricchezza, vive in un mondo di illusioni e fantasie**.
+Il narratore paragona questo atteggiamento al "**l'ideale dell'ostrica", dove i pescatori si sentono al sicuro nel loro ambiente natale**, protetti dai valori e dalla comunità. Chi invece cerca il cambiamento e la fortuna altrove, rischia di essere inghiottito dal mare della vita.
 
-"Fantasticheria" affronta temi come le **differenze sociali**, **l'innocenza dell'infanzia, l'illusione e la consapevolezza della realtà**. Verga descrive con precisione i dettagli delle vite dei due ragazzi, offrendo una critica implicita alle disuguaglianze sociali presenti nella società siciliana dell'epoca.
-
-Attraverso questa novella, Verga mette in evidenza le **divisioni sociali** che caratterizzano la sua narrativa e getta uno sguardo realistico sulle ingiustizie e le differenze che permeano la società in cui viveva.
+In sintesi, "Fantasticheria" descrive il contrasto tra la visione romantica di un luogo e la realtà della vita dei pescatori, evidenziando l'importanza dell'appartenenza e l'idealizzazione dell'ambiente familiare.
 
 ## Novelle rusticane
-Le "Novelle Rusticane" sono una **raccolta di undici brevi** racconti scritti da Giovanni Verga e **pubblicati nel 1883**. Questa raccolta rappresenta un'**immagine cruda e realistica della vita rurale in Sicilia nel XIX secolo**. Ogni novella offre uno sguardo realistico sulle condizioni di vita dei **contadini, artigiani e pescatori**, esplorando temi come la **povertà**, la l**otta per la sopravvivenza e la dignità umana**. Le novelle sono caratterizzate da una **scrittura realistica e dalla descrizione dettagliata dei personaggi e dei luoghi**. Alcune delle novelle più celebri includono "La Lupa", "Jeli il Pastore" e "Cavalleria Rusticana". Le "Novelle Rusticane" sono considerate un capolavoro del verismo italiano e offrono una testimonianza importante della realtà sociale e culturale della Sicilia dell'epoca.
+A differenza di Vita dei campi, il **tema economico** e della "**fiumana del progresso**" in arrivo dal Settentrione assume maggior importanza. Vengono inoltre meno quei personaggi semi-leggendari: anche i titoli non si rifanno più a dei personaggi ma a dei concetti astratti.
 
 ### Libertà 
+La narrazione descrive gli eventi di una **rivolta a Bronte**, durante la quale la popolazione insorgeva per reclamare la libertà. Durante il tumulto, molte persone, compresi **Don Antonio, il reverendo, Don Paolo e il figlio del notaio Neddu, vengono uccise**. I **rivoltosi prendono di mira i ricchi**, incluso la baronessa, che viene trovata e uccisa insieme ai suoi tre figli.
+
+Dopo la rivolta, si cerca di decidere come **dividere le terre dei ricchi** deceduti, ma ci sono tensioni e mancanza di competenze per gestire la situazione. Il generale **Nino Bixio arriva a Bronte per fare giustizia e fucila i colpevoli** che non sono riusciti a fuggire. Successivamente, giudici e processi vengono organizzati, ma alla fine i ricchi riacquistano le loro terre e i poveri tornano a lavorare nei campi dei benestanti.
+
+Il racconto termina con un carbonaro, che era stato arrestato, che rimane sorpreso di non aver mai assaporato la libertà tanto discussa.
+
+In breve, la narrazione racconta gli eventi di una rivolta a Bronte, con la popolazione che si ribella per ottenere la libertà, ma alla fine si ritorna a uno stato di oppressione e i ricchi riprendono il controllo delle terre.
+
+Il processo ai colpevoli durò a lungo, fino a quando tutti gli imputati furono ascoltati da una giuria composta dai ricchi e dai nobili, i quali ogni volta si rallegravano di non essere nati e vissuti a Bronte in quegli anni. **Fu infine pronunciata la sentenza e un carbonaro, a cui erano state rimesse le manette, rimase sbigottito perché non aveva assaporato la libertà di cui avevano tanto parlato**.
+
+## I Malavoglia
+Il primo romanzo del ciclo dei vinti è un **romanzo corale** che narra le **vicende della famiglia Toscano, comunemente nota come Malavoglia**. Nel 1875 Verga invia un bozzetto al suo editore Treves, che poi pubblicherà il romanzo completo nel 1881.
+
+### I personaggi
+- **Padron ‘Ntoni**: è il capofamiglia, il più anziano. È un uomo caparbio che non rinuncia mai a fare il suo dovere. Amante del mare e quindi del suo mestiere di pescatore. Inizialmente il narratore non descrive in modo dettagliato il personaggio, dice solo che è un vecchi curvo, ma in seguito, quando si ammala, lo descrive con maggiore attenzione, come se attraverso la descrizione fisica emergesse anche il profilo psicologico e affettivo.   Padron ‘Ntoni non si oppone alla società del suo tempo, né la subisce, la rispetta, con tutte le sue credenze e tradizioni. Il suo animo sereno nel primo capitolo va cambiando attraverso le disgrazie che dovrà affrontare. Negli ultimi capitoli troviamo un uomo stanco della vita, che, ormai giunto ad una età avanzata, non aspetta che la morte.  
+- **Bastianazzo**: è il figlio di Padron ‘Ntoni, è un uomo di buon cuore e lavoratore. Muore ancora giovane in mare durante una tempesta.  
+- **Maruzza (la Longa)**: è la moglie di Bastianazzo. Si dà da fare per contribuire al bilancio familiare. La sua serenità svanisce con la morte prematura del marito, e poi del figlio Luca. Il dolore per le numerose perdite la invecchia precocemente. La sua vita viene spezzata da una grave malattia: il colera.  
+- **‘Ntoni**: è il figlio maggiore di Bastianazzo e Maruzza. È un ragazzo giudizioso, anche se a volte troppo impulsivo. Col passare degli anni, la sua voglia di lavorare diventa sempre minore, si ribella alla sua condizione di miseria e povertà, in un modo insolito: smette di lavorare e va a cercare guai all’osteria. Questa vita lo porterà a scontare cinque anni di galera. Dopo essere stato rilasciato, lascia il paese d’origine.  
+- **Mena**: è una figlia giudiziosa e riservata. È soprannominata Sant’Agata per il suo assiduo lavoro al telaio. Dopo la morte della madre sa educare la sorella minore Lia e mandare avanti la casa. Le disgrazie e i dispiaceri la invecchiano assai precocemente: a soli ventisei anni le sembra già di essere vecchia. È molto influenzata dalla società del suo tempo, infatti decide di non sposarsi con Alfio Mosca, di cui era innamorata, perché questo avrebbe riportato sulla bocca di tutti la triste sorte della sorella.  
+- **Luca**: “un vero Malavoglia”, giudizioso e di buon cuore, come il padre, muore prematuramente in guerra.  
+- **Alessi**: è un bravo ragazzo, si dà da fare per tirare su la famiglia dopo la morte del nonno, del padre, della madre e la “fuga” di ‘Ntoni . Riesce a riscattare la casa del Nespolo e ricostruisce la famiglia dei Malavoglia. Sposa una brava ragazza, Nunziata.  
+- **Lia**: La più piccola della famiglia Malavoglia. Finisce sulle bocche di tutti dopo il processo del fratello, e per questo lascia Aci Trezza. Nessuno avrà più sue notizie. Solo Alfio Mosca sa la verità.
+
+### La trama
+**Malavoglia** è il soprannome dei Toscano, una famiglia di pescatori di Aci Trezza. Capofamiglia è il vecchio padron 'Ntoni. Con lui nella **casa del "nespolo"** vivono il figlio Bastianazzo con la moglie Marezza detta la "Longa" e i loro cinque figli 'Ntoni, Luca, Mena, Alessi e Lia.  
+
+Il giovane 'Ntoni parte per il servizio militare e la famiglia perde uno dei maggiori sostegni. Per questo il vecchio 'Ntoni decide di prendere a credito una partita di lupini che conta di rivendere al mercato di Riposto. Durante il viaggio per mare la **"Provvidenza"**, la barca dei Malavoglia, naufraga: il carico si perde, Bastianazzo muore. Padron 'Ntoni pressato dai debiti è costretto a vendere la casa del "nespolo".  
+
+**Una serie di sventure** si abbatte sui Malavoglia troncando ogni speranza di riscatto.  
+**Luca** arruolatosi **muore** nella battaglia di Lissa, seguito poco dopo da **Maruzza** vittima di un'epidemia di **colera**. L'inquieto **'Ntoni** si dà al contrabbando e viene **arrestato**. **Lia**, compromessa per una presunta relazione col brigadiere don Michele, **lascia il paese** e diventa una prostituta. Mena per le difficoltà familiari non può sposare compare Alfio e triste e sfiorita invecchia precocemente.  
+
+Alla **morte del vecchio 'Ntoni**, che si spegne solo e disperato in un letto d'ospedale, il suo posto viene preso da **Alessi**, che dopo aver sposato la Nunziata, riscatta la casa del "nespolo" e riprende l'attività del nonno.  
+Una notte, scontata la pena, torna 'Ntoni, ma solo per dare l'addio definitivo a una vita che non gli appartiene più

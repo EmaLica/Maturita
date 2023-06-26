@@ -8,7 +8,7 @@ In questo periodo **è forte la fiducia nel progresso**, in particolare nella sc
 
 Come indica il positivismo come il superamento dello stadio teologico e metafisico in favore di uno stadio scientifico caratterizzato da un progresso smisurato: non ci si interroga più sul perché dei fenomeni esaminati, ma ci si pongono domande su come questi accadano.
 
-**Taine afferma che l'opera d'art**e è il **frutto di tre fattori fondamentali**, ossia l'**ambiente**, la **razza** e il **momento storico** in cui essa viene prodotta (determinismo radicale: ogni cosa, senza alcuna esclusione, è figlia del proprio tempo e i comportamenti umani sono frutto di processi chimici e fisici).
+**Taine afferma che l'opera d'arte** è il **frutto di tre fattori fondamentali**, ossia l'**ambiente**, la **razza** e il **momento storico** in cui essa viene prodotta (determinismo radicale: ogni cosa, senza alcuna esclusione, è figlia del proprio tempo e i comportamenti umani sono frutto di processi chimici e fisici).
 
 **Per Durkheim** invece **l'uomo è frutto di una coscienza collettiva**, sviluppatasi in relazione alle credenze e ai sentimenti comuni che caratterizzano l'intera società.
 

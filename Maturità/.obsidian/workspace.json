@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f421ba26f017333d",
+        "id": "685005fb55a852c9",
         "type": "tabs",
         "children": [
           {
-            "id": "22223e0d7d3189b3",
+            "id": "82b7d524bd2516d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Eugenio Montale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1336ae93105f842",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Italiano/Programma Italiano.pdf"
-              }
-            }
-          },
-          {
-            "id": "3b2837ffee471d47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Italiano/Giovanni Verga.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Giovanni Verga.md",
+                "file": "Italiano/Programma Italiano.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Giovanni Verga.md",
+                "file": "Italiano/Programma Italiano.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Giovanni Verga.md"
+                "file": "Italiano/Programma Italiano.pdf"
               }
             }
           }
@@ -160,13 +160,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b2837ffee471d47",
+  "active": "f1336ae93105f842",
   "lastOpenFiles": [
+    "Italiano/Eugenio Montale.md",
     "Italiano/Programma Italiano.pdf",
+    "Italiano/Giuseppe Ungaretti.md",
+    "Italiano/Italo Svevo.md",
+    "Italiano/Luigi Pirandello.md",
+    "Italiano/Gabriele D'Annunzio.md",
+    "Italiano/Il primo novecento.md",
+    "Storia/Programma Storia.pdf",
     "Italiano/Giovanni Verga.md",
-    "Italiano/Giacomo Leopardi.md",
-    "Italiano/Naturalismo e Verismo.md",
+    "Italiano/Giovanni Pascoli.md",
     "Home Page.md",
+    "Italiano/Giacomo Leopardi.md",
+    "Italiano/Simbolismo e Decadentismo.md",
+    "Italiano/Naturalismo e Verismo.md",
     "Inglese/Programma Inglese.pdf",
     "Commissari.png",
     "Matematica/Programma Matematica.pdf",
@@ -187,10 +196,6 @@
     "Tepsit/Programma Tepsit.pdf",
     "Tepsit/Linguaggio Java.md",
     "Tepsit/I sistemi distribuiti.md",
-    "Tepsit/Appunti TEPSIT.md",
-    "Tepsit/Annotazioni Web Application e JAX-RS.md",
-    "Da Mettere a posto/Dmz,Trust.md",
-    "Tepsit/WebApplication.md",
     "assets/7.png",
     "assets/6.png",
     "assets/5.png",
@@ -201,11 +206,6 @@
     "assets/db32 1.jpg",
     "assets/Immagine 2023-06-19 174929.png",
     "Sistemi e reti/Programma Sistemi.pdf",
-    "Sistemi e reti/Livello di Trasporto.md",
-    "Sistemi e reti/Sicurezza informatica.md",
-    "Sistemi e reti/GDPR.md",
-    "Sistemi e reti/Socket in Java.md",
-    "Informatica/Archivi Informatici.html",
-    "Da Mettere a posto"
+    "Informatica/Archivi Informatici.html"
   ]
 }
