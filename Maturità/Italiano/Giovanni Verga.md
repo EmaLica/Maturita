@@ -5,19 +5,20 @@ Descrizione: La vita. La poetica. Il “ciclo dei vinti”
 ###### Collegamenti
 Storia: Unità d'Italia
 ## La vita
-Giovanni Verga è nato il **2 settembre 1840 a Catania**, in Sicilia, e è **morto il 27 gennaio 1922 a Catania**. È considerato uno dei più importanti scrittori italiani del XIX secolo e uno dei principali **rappresentanti** del **verismo**.
+**Giovanni Verga** è tra i narratori italiani più noti della seconda metà dell’800. Fu autore di romanzi, novelle e testi teatrali e il suo nome è legato indissolubilmente al movimento del **Verismo italiano**.  
+Ecco gli eventi più importanti della sua vita:      
 
-Verga proveniva da una **famiglia di origini aristocratiche** e ricevette un'**educazione privilegiata**. **Studiò legge all'Università di Catania**, ma presto abbandonò gli studi per dedicarsi alla scrittura e alla letteratura.
-
-Nel **1869**, Verga **si trasferì a Firenze**, dove entrò in contatto con importanti intellettuali e scrittori dell'epoca. Fu **influenzato dagli scrittori francesi del naturalismo**, in particolare **Émile Zola**. Questa influenza si riflette nel suo approccio realistico alla scrittura e nel suo interesse per la rappresentazione oggettiva della realtà.
-
-Nel corso della sua carriera, Verga scrisse numerose opere che lo resero celebre. Tra i suoi romanzi più importanti si annoverano "I Malavoglia" (1881), "Mastro-don Gesualdo" (1889) e "La Lupa" (1880). Inoltre, scrisse anche racconti, novelle e commedie teatrali.
-
-Le opere di Verga, in particolare quelle **ambientate in Sicilia**, esplorano le **condizioni di vita dei contadini e delle classi sociali più basse**, mettendo in luce le **difficoltà**, le **disuguaglianze** e le **tensioni sociali** dell'epoca. La sua scrittura è caratterizzata da una descrizione dettagliata e realistica dei personaggi e dei luoghi, spesso utilizzando il dialetto siciliano per conferire autenticità ai dialoghi.
-
-Nonostante il successo delle sue opere, Verga fu spesso **in conflitto con il mondo letterario e la critica**. La sua **visione pessimistica** della realtà e la sua **rappresentazione cruda e spietata della vita** furono **oggetto di controversie e critiche**. Tuttavia, la sua influenza sulla letteratura italiana e il suo contributo al movimento verista sono riconosciuti e apprezzati ancora oggi.
-
-Giovanni Verga trascorse gli ultimi anni della sua vita a Catania, dove morì nel 1922. La sua eredità letteraria è significativa e le sue opere continuano ad essere studiate e apprezzate come importanti testimonianze della società e della cultura italiana del suo tempo.
+- **1840** - Nasce a Catania da una famiglia nobile liberale e antiborbonica.
+- **1858** - Si iscrive alla Facoltà di Legge a Catania, ma presto la abbandona per dedicarsi alla letteratura.
+- **1860** - Allo sbarco dei garibaldini si arruola nella Guardia Nazionale in favore dell’Unità d’Italia.
+- **1869** - Si trasferisce a Firenze, allora capitale d’Italia, dove frequenta i salotti intellettuali e la vita mondana.
+- **1872** - Si trasferisce a Milano, dove resterà per 20 anni. Qui ha contatti con gli scrittori della Scapigliatura e conosce la narrativa europea. Negli stessi anni c’è a Milano anche l’amico scrittore Capuana, che gli fa conoscere il Naturalismo francese.
+- **1874** - Con la pubblicazione della novella **Nedda** inizia il processo di conversione al Verismo.
+- **1881**- Pubblica **_I Malavoglia_**.
+- **1884** - Durante un viaggio a Parigi incontra gli scrittori Emile Zola ed Edmond de Goncourt, esponenti del Naturalismo francese.
+- **1890** - Torna definitivamente a Catania, dove vive nei suoi possedimenti e si allontana sempre di più dalla scrittura.
+- **1920** - Viene nominato senatore a vita.
+- **1922** - Muore a Catania.
 
 ## La poetica
 La poetica di Giovanni Verga, uno dei più importanti scrittori italiani del XIX secolo, è caratterizzata da una profonda **osservazione della realtà e un'attenzione particolare ai dettagli**. Verga è considerato il **padre del verismo italiano**, un movimento letterario che si proponeva di rappresentare la realtà in modo oggettivo e oggettivo.

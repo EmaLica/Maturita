@@ -3,17 +3,21 @@ Data: 26th June 2023
 Descrizione: 
 ---
 ## La vita
-Luigi Pirandello, nato il **28 giugno 1867 ad Agrigento, in Sicilia**, è considerato uno dei **più importanti drammaturghi e scrittori italiani del XX secolo**. La sua vita è stata caratterizzata da una serie di esperienze personali e letterarie significative.
+**Pirandello** nasce nel 1867 vicino **Agrigento** - all’epoca Girgenti - e precisamente in una località chiamata **Caos**. Su questo lo scrittore amò sempre scherzare, definendosi un “figlio del caos”. **Pirandello** cresce in un clima di forte disillusione per le **aspettative disattese** del Risorgimento, di cui i genitori erano stati sostenitori. Questo, come altri eventi della sua vita, **influenzerà le sue opere** e la sua visione del mondo. Nel 1887 si iscrive alla Facoltà di Lettere a Roma, ma nel 1889 si trasferisce a Bonn, in Germania, dove si laurea nel 1891 con una tesi sul dialetto di Agrigento.
 
-Pirandello proveniva da una **famiglia borghese e studiò letteratura e filosofia all'Università di Roma La Sapienza**. Durante gli anni universitari, ebbe modo di entrare in contatto con le **idee del verismo**, un movimento letterario che influenzò la sua visione artistica.
+Tornato a Roma, entra negli ambienti letterari, collabora con alcune riviste e pubblica le **prime novelle** e i **primi romanzi**. Nel 1901 esce il romanzo _L’Esclusa_ e l’anno successivo _Il turno_. Ma è il 1903 l’anno della svolta, a causa di due eventi:     
 
-Dopo aver completato gli studi, Pirandello **si dedicò all'insegnamento e alla scrittura**. Nel **1894, sposò Antonietta Portulano**, con cui ebbe **tre figli. Tuttavia**, la sua vita familiare fu segnata da una **serie di tragedie**. Nel 1904, **sua moglie cominciò a soffrire di disturbi mentali e nel 1919 morì di una malattia mentale incurabile**. Questi eventi personali dolorosi influenzarono la sua scrittura, che si concentrò spesso sul **tema della complessità della natura umana**.
+- la **miniera di zolfo** dei genitori si allaga e la famiglia cade in rovina;
+- inizia a manifestarsi la **malattia mentale della moglie** che la costringerà a vivere in una casa di cura fino alla morte.
 
-Pirandello scrisse **opere teatrali, romanzi, racconti e saggi**. Tra le sue opere più celebri si includono i romanzi **"Il fu Mattia Pascal"** (1904) e **"Uno, nessuno e centomila"** (1926) e le opere teatrali "Sei personaggi in cerca d'autore" (1921) e "Enrico IV" (1922). Pirandello introdusse innovazioni narrative e teatrali, rompendo con le convenzioni tradizionali e esplorando la natura instabile e mutevole dell'identità umana.
+Dissesto economico, follia e prigione familiare diventano allora temi centrali delle sue opere. Le **difficoltà economiche** lo portano a intensificare l’attività di scrittore e nascono i suoi romanzi più famosi:    
 
-Nel 1934, Pirandello **ricevette il Premio Nobel per la letteratura** per la sua "nuova e originale concezione del dramma e del teatro", che ha "illuminato la sua epoca con splendide novità drammatiche".
+- _Il Fu Mattia Pascal_ (1904)
+- _I vecchi e i giovani_(1909)
+- _Suo marito_ (1911)
+- _Quaderni di Serafino Gubbio operatore_ (1915)
 
-Pirandello trascorse gli ultimi anni della sua vita a **Roma**, dove **morì il 10 dicembre 1936**. La sua eredità letteraria e la sua profonda esplorazione della complessità umana continuano ad essere studiate e apprezzate in tutto il mondo.
+In questo periodo ha inizio anche l’**attività teatrale**, con opere sia in siciliano che in italiano, spesso derivate dalle novelle.
 
 ## La poetica umoristica: comicità e umorismo
 Nel suo saggio **“_L’umorismo_“** Pirandello ci spiega la differenza tra «comicità’, ironia e umorismo». Il **comico**, definito come **“_avvertimento del contrario_“**, nasce dal contrasto tra l’apparenza e la realtà. L’**umorismo** è definito come **“_sentimento del contrario_”**, spiegando che in esso implica la **comprensione di sentimento e riflessione**. Pertanto, l’umorismo implica un processo di riflessione critica che consente di analizzare e di comprendere ciò che si nasconde dietro un fatto o un atteggiamento a prima vista comico.
@@ -65,7 +69,7 @@ La carriola assume un significato simbolico, rappresentando la **condizione fati
 Attraverso la storia di Andrea e la sua carriola, Pirandello mette in luce le **disuguaglianze sociali e l'indifferenza degli individui di fronte alle sofferenze degli altri**. La novella offre una rappresentazione cruda e realistica dell'umanità, mettendo in evidenza le sfide e le ingiustizie presenti in una società ostile.
 
 ## Il fu Mattia Pascal
-"Il fu Mattia Pascal" è un romanzo scritto da Luigi Pirandello e pubblicato nel 1904. La storia ruota attorno al protagonista **Mattia Pascal, un uomo insoddisfatto della sua vita monotona e oppressa da una moglie autoritaria e una suocera invadente**.
+"Il fu Mattia Pascal" è un romanzo scritto da Luigi Pirandello e pubblicato nel 1904. La storia ruota attorno al protagonista **Mattia Pascal, un uomo insoddisfatto della sua vita monotona e oppressa da una moglie autoritaria e una suocera invadente.
 
 La trama si sviluppa quando **Mattia, stanco della sua esistenza insoddisfacente, decide di scomparire**. Dopo aver **simulato la sua morte** in un albergo, Mattia inizia una nuova vita con una nuova identità. Si trasferisce in un'altra città, assume il **nome di Adriano Meis** e inizia a vivere una vita completamente diversa.
 

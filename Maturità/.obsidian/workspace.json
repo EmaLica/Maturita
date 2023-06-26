@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82b7d524bd2516d1",
+            "id": "f1571fc31ba79379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Eugenio Montale.md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f1336ae93105f842",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Italiano/Programma Italiano.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Programma Italiano.pdf",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Programma Italiano.pdf",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Programma Italiano.pdf"
+                "file": "Home Page.md"
               }
             }
           }
@@ -160,24 +149,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f1336ae93105f842",
+  "active": "f1571fc31ba79379",
   "lastOpenFiles": [
-    "Italiano/Eugenio Montale.md",
-    "Italiano/Programma Italiano.pdf",
-    "Italiano/Giuseppe Ungaretti.md",
-    "Italiano/Italo Svevo.md",
+    "Italiano/Cose di cosa nostra, Il fu Mattia Pascal, Sostiene Pereira.md",
     "Italiano/Luigi Pirandello.md",
-    "Italiano/Gabriele D'Annunzio.md",
-    "Italiano/Il primo novecento.md",
-    "Storia/Programma Storia.pdf",
-    "Italiano/Giovanni Verga.md",
-    "Italiano/Giovanni Pascoli.md",
+    "Italiano/Italo Svevo.md",
+    "Italiano/Coscienza di Zeno e 1984.md",
+    "Italiano/Programma Italiano.pdf",
     "Home Page.md",
-    "Italiano/Giacomo Leopardi.md",
-    "Italiano/Simbolismo e Decadentismo.md",
-    "Italiano/Naturalismo e Verismo.md",
     "Inglese/Programma Inglese.pdf",
     "Commissari.png",
+    "Italiano/Giuseppe Ungaretti.md",
+    "Italiano/Eugenio Montale.md",
+    "Italiano/Gabriele D'Annunzio.md",
+    "Italiano/Giovanni Pascoli.md",
+    "Italiano/Giovanni Verga.md",
+    "Italiano/Giacomo Leopardi.md",
+    "Italiano/Il primo novecento.md",
+    "Storia/Programma Storia.pdf",
+    "Italiano/Simbolismo e Decadentismo.md",
+    "Italiano/Naturalismo e Verismo.md",
     "Matematica/Programma Matematica.pdf",
     "Matematica",
     "Inglese",
@@ -194,8 +185,6 @@
     "Tepsit/Tecnologie e protocolli di rete.md",
     "Tepsit/Sistemi ORM in java.md",
     "Tepsit/Programma Tepsit.pdf",
-    "Tepsit/Linguaggio Java.md",
-    "Tepsit/I sistemi distribuiti.md",
     "assets/7.png",
     "assets/6.png",
     "assets/5.png",

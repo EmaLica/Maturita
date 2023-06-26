@@ -2,23 +2,14 @@
 Data: 26th June 2023
 Descrizione: 
 ---
-## La vita
-Italo Svevo, **pseudonimo di Ettore Schmitz**, è stato uno scrittore e **drammaturgo italiano**. Nato a **Trieste il 19 dicembre 1861**, ha vissuto gran parte della sua vita in questa **città portuale dell'Impero austro-ungarico**, che all'epoca era un importante crocevia culturale e linguistico.
+## 1984
+**1984**, prima ancora di essere un celebre film, è un **romanzo di fantascienza distopica** scritto da **George Orwell** ambientato in un ipotetico mondo futuro, nella Londra del 1984 (il libro è stato scritto nel 1948, 36 anni prima). 
 
-Svevo proveniva da una **famiglia di origine ebraica e sin da giovane dimostrò una grande passione per la letteratura**. **Dopo gli studi** classici, **lavorò nell'azienda di famiglia**, impegnandosi nella gestione di una **fabbrica di vernici**. Nonostante il suo coinvolgimento nel mondo degli affari, Svevo non abbandonò mai la sua passione per la scrittura e la lettura.
+1984 racconta di un mondo controllato da un governo fortemente **totalitario**: nel romanzo la società è dominata dal **Grande Fratello**, un misterioso personaggio che nessuno ha mai incontrato di persona e che tiene costantemente sotto controllo la vita dei cittadini, mediante l’uso di speciali teleschermi “_si poteva bensì abbassare ma non mai abbassare del tutto…nulla si possedeva di proprio se non pochi centimetri cubi dentro il cranio_. _Il Grande Fratello è infallibile ed onnipotente. Ogni successo, ogni risultato positivo, ogni vittoria, ogni conoscenza scientifica… si pensa provengano dalla sua guida e dalla sua ispirazione. Nessuno lo ha mai visto anche se egli è un volto sui manifesti, la voce dal teleschermo. Si può essere certi che non morirà mai, ed esiste un notevole margine d’incertezza per stabilire la sua data di nascita. Il Grande Fratello è la forma con la quale il Partito ha deliberato di presentarsi al mondo_”. In questo mondo in cui la libertà è stata del tutto abolita, il protagonista del romanzo, Winston Smith, decide di ribellarsi e inizia a scrivere un diario: già questo è un gesto molto pericoloso, che, se scoperto, può portare all’arresto, alla tortura e alla soppressione.
 
-- **1861**. Nasce a Trieste.
-- **1874-78.** Studia con i fratelli in un collegio tedesco in Baviera.
-- **1880.** Inizia a collaborare con il giornale triestino «L’Indipendente» e viene assunto presso la filiale triestina della banca Union.
-- **1892.** Pubblica il primo romanzo, Una vita.
-- **1896.** Sposa Livia Veneziani, per la quale aveva scritto il _Diario per la fidanzata_.
-- **1898.** Pubblica il romanzo Senilità.
-- **1899.** Lascia la banca ed entra nella ditta del suocero, allontanandosi dall’attività letteraria.
-- **1905.** Incontro con James Joyce, con cui nasce una lunga amicizia.
-- **1908.** Viene a conoscenza delle teorie di Freud e della **psicanalisi**.
-- **1914.** Con lo scoppio della guerra la ditta viene requisita e Svevo può dedicarsi ai suoi studi.
-- **1923.** Esce _La coscienza di Zeno_, che lo porta lentamente all’attenzione della critica e al successo in tutta Europa.
-- **1928.** Muore a Motta di Livenza, in Veneto.
+Pur appartenendo al Partito Esterno (organizzazione politica che collabora col Grande Fratello falsificando i documenti a favore del governo), Winston è deciso a fare di tutto per rovesciare la società e inizia a indagare sul passato nella speranza di poter analizzare più chiaramente il suo nemico. Durante le ricerche Winston troverà alcune persone che lo aiuteranno nel suo proposito. La prima è Julia, descritta come “_una ragazza dall’aria risoluta, di circa ventisette anni, con una gran capigliatura nera, faccia lentigginosa e movimenti svelti e atletici_” che, come Winston, lavora nel Partito Esterno. Julia è intelligente, costretta a fingere come Winston, intenzionata a ribellarsi al sistema che la opprime e che le ruba la libertà. Tra Julia e Winston nasce subito una storia d’amore che resterà segreta e i due si incontreranno solo di nascosto.
+
+Entrambi entreranno nella “Fratellanza”, un’associazione segreta che vuole distruggere il Grande Fratello; saranno contattati da O’Brien, che Winston ritiene essere uno dei membri di questa confraternita, ma che invece si rivelerà uno dei massimi dirigenti del regime.
 
 ## La coscienza di Zeno
 La coscienza di Zeno è il terzo romanzo di Italo Svevo, scritto dal **1919 al 1922** e **pubblicato nel 1923**, dopo il lungo silenzio letterario dell’autore. Raggiunge il successo nazionale e internazionale grazie a Eugenio Montale, che in un articolo del 1925 tesse le lodi del romanzo, e a James Joyce, amico di Svevo, che fa conoscere il romanzo in Francia.

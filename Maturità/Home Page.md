@@ -16,8 +16,6 @@ banner_y: 0
 	- [[Guida Modello Entity-Relationship]]
 
 # Sistemi e Reti
-- To Do
-	- [ ] Ripasso anni precedenti
 - 🚚 Livello di Trasporto
 	- [[Livello di Trasporto]]
 - ♨️ Socket in Java
@@ -80,29 +78,31 @@ banner_y: 0
 - 💼 Giovanni Verga
 	- [[Giovanni Verga]]
 - 💼 Giovanni Pascoli
-	- Unificazione dell'Italia
+	- [[Giovanni Pascoli]]
 - 💼 Gabriele D'Annunzio
-	- Unificazione dell'italia
+	- [[Gabriele D'Annunzio]]
 - 💼 Luigi Pirandello
-	- Unificazione dell'italia
+	- [[Luigi Pirandello]]
 - 💼 Italo Svevo
-	- Unificazione dell'italia
+	- [[Italo Svevo]]
 - 💼 Giuseppe Ungaretti
-	- Unificazione dell'italia
+	- [[Giuseppe Ungaretti]]
 - 💼 Eugenio Montale
-	- Unificazione dell'Italia
+	- [[Eugenio Montale]]
 - Naturalismo francese e Verismo italiano
 	- [[Naturalismo e Verismo]]
 - Simbolismo e Decadentismo
-	- 
+	- [[Simbolismo e Decadentismo]]
 - Il primo novecento
-	- 
+	- [[Il primo novecento]]
+- Testi facoltativi
+	- [[Coscienza di Zeno e 1984]]
+- Opere lette integralmente
+	- [[Cose di cosa nostra, Il fu Mattia Pascal, Sostiene Pereira]]
 
-# Impresa
-- 💼 Volume 2
-	- Unificazione dell'italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
+# Inglese
+- Qualcosa
+	- 
 
 # Info Vault
 - 🗄️ File aggiornati di recente
