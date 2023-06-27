@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Sql.md",
+                "file": "Tepsit/XML e JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Sql.md",
+                "file": "Tepsit/XML e JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Sql.md",
+                "file": "Tepsit/XML e JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Sql.md"
+                "file": "Tepsit/XML e JSON.md"
               }
             }
           }
@@ -149,35 +149,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4cf5d209453809c",
+  "active": "0fb0ef0fad735afe",
   "lastOpenFiles": [
-    "Informatica/Php e Ajax.md",
-    "Informatica/Programma Informatica.pdf",
-    "Informatica/Guida Modello Entity-Relationship.md",
-    "Informatica/Database e Sistemi Informativi.md",
-    "Informatica/Archivi Informatici.md",
-    "Federico Faggin.md",
-    "Inglese/Government Surveillance.md",
-    "Inglese/Suffragette.md",
-    "Home Page.md",
-    "Storia/Il complesso itinerario dell’Italia.md",
-    "Tepsit/Annotazioni Web Application e JAX-RS.md",
-    "Tepsit/WebService.md",
-    "Tepsit/Sistemi ORM in java.md",
     "Tepsit/WebService REST e WebApplication.md",
+    "Tepsit/WebService.md",
     "Tepsit/Tecnologie e protocolli di rete.md",
+    "Tepsit/Sistemi ORM in java.md",
+    "Tepsit/I sistemi distribuiti.md",
     "Tepsit/Linguaggio Java.md",
-    "Sistemi e reti/Protocolli per la sicurezza.md",
-    "Sistemi e reti/Internet Working.md",
-    "Sistemi e reti/Sicurezza informatica.md",
-    "Sistemi e reti/Macchine virtuali.md",
-    "Storia/Programma Storia.pdf",
-    "Storia/Il mondo diviso in due blocchi.md",
+    "Tepsit/Annotazioni Web Application e JAX-RS.md",
+    "Storia/Unificazione dell'Italia.md",
+    "Storia/La seconda Rivoluzione industriale.md",
     "Storia/La Seconda Guerra mondiale.md",
-    "Hitler al potere.md",
+    "Storia/La Rivoluzione russa.md",
+    "Storia/La Grande Guerra.md",
+    "Storia/La Belle Époque.md",
+    "Storia/L’Italia nell’età giolittiana.md",
     "Storia/Il regime fascista di Mussolini.md",
-    "Italiano/Naturalismo e Verismo.md",
+    "Storia/Il mondo diviso in due blocchi.md",
+    "Storia/Il complesso itinerario dell’Italia.md",
+    "Storia/I fragili equilibri del Dopoguerra.md",
+    "Storia/Hitler al potere.md",
+    "Home Page.md",
     "Storia/Crisi del '29 e l'America di Roosevelt.md",
+    "Sistemi e reti/Socket in Java.md",
+    "Sistemi e reti/Sicurezza informatica.md",
+    "Sistemi e reti/Protocolli per la sicurezza.md",
+    "Sistemi e reti/Protocolli del livello applicazione.md",
+    "Sistemi e reti/Macchine virtuali.md",
+    "Informatica/Programma Informatica.pdf",
+    "Storia/Programma Storia.pdf",
     "Commissari.png",
     "Italiano/Programma Italiano.pdf",
     "Inglese/Programma Inglese.pdf",

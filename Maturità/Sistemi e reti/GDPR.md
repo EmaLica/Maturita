@@ -2,7 +2,6 @@
 Data: 17th June 2023
 Descrizione: GDPR (Educazione Civica)
 ---
-# GDPR
 ### Cosa si intende per privacy
 - Ogni individuo **ha il diritto di essere protetto nei confronti dei propri dati personali**.
 - I dati personali devono essere **trattati in modo leale**, per scopi specifici e con il consenso della persona interessata o su una base legittima prevista dalla legge.
