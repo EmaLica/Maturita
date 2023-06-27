@@ -55,23 +55,23 @@ banner_y: 0
 
 # Storia
 - 💼 Volume 2
-	- Unificazione dell'Italia
-	- La seconda Rivoluzione industriale
-	- Il complesso itinerario dell’Italia
+	- [[Unificazione dell'Italia]]
+	- [[La seconda Rivoluzione industriale]]
+	- [[Il complesso itinerario dell’Italia]]
 - 💼 Volume 3
-	- La Belle Époque
-	- L’Italia nell’età giolittiana
-	- La Grande Guerra
-	- La Rivoluzione russa
-	- I fragili equilibri del Dopoguerra
-	- Crisi del '29 e l'America di Roosevelt
-	- Il regime fascista di Mussolini
-	- Hitler al potere
-	- Verso la catastrofe
-	- La Seconda Guerra mondiale
-	- Il mondo diviso in due blocchi (Cenni)
+	- [[La Belle Époque]]
+	- [[L’Italia nell’età giolittiana]]
+	- [[La Grande Guerra]]
+	- [[La Rivoluzione russa]]
+	- [[I fragili equilibri del Dopoguerra]]
+	- [[Crisi del '29 e l'America di Roosevelt]]
+	- [[Il regime fascista di Mussolini]]
+	- [[Hitler al potere]] 
+	- [[La Seconda Guerra mondiale]]
+	- [[Il mondo diviso in due blocchi]] 
 - 💼 Volume 3
-	- Articoli  
+	- Costituzione e Articoli 
+	- La lunga marcia per i diritti delle donne (con Inglese)
 # Italiano
 - 💼 Giacomo Leopardi
 	- [[Giacomo Leopardi]]

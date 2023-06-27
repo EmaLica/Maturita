@@ -1,0 +1,13 @@
+---
+Data: 27th June 2023
+Descrizione: 
+---
+## La storia
+La parola _**Suffragette**_ viene utilizzata per indicare le **donne che appartenevano a un movimento di emancipazione femminile**, che voleva **ottenere il diritto di voto**. In generale, comunque, il termine si usa per indicare qualsiasi **donna che ha combattuto per conquistare i suoi diritti**. Tra la fine del Settecento e l'inizio del Novecento si iniziò a diffondere tra le donne la volontà di riuscire ad ottenere gli stessi diritti di cui godevano gli uomini. Durante la Rivoluzione Francese, M.me de Keralis ha presentato all'Assemblea Rivoluzionaria il **"Cahier de Doléances des femmes"**, che può essere considerato come la prima richiesta di riconoscimento dei diritti delle donne; e Olympe de Gouges ha pubblicato il romanzo "_Le prince philosophe_" che rivendicava i diritti delle donne. Ma per arrivare al suffragio universale si dovrà attendere il 1945.
+
+### Suffragette in Inghilterra
+Anche **in Inghilterra le donne iniziarono a manifestare per conquistare il proprio posto all'interno della società** e non essere considerate soltanto "donne di casa". Nel 1792 è stato pubblicato il libro di Mary Wollstonecraft, "_A Vindication of the Right of Women_", per rivendicare, appunto, i propri diritti. **Nel 1835 le donne riuscirono a conquistare il diritto di voto alle elezioni locali**. Ma la strada per la conquista dei diritti era ancora molto lunga. In Inghilterra i **movimenti femminili** sono stati sostenuti da John Stuart Mill, che nel 1865 ha proposto di introdurre il suffragio femminile.
+
+**Il vero e proprio movimento delle "Suffragette" è nato nel Regno Unito nel 1872.** Nel 1897 Millicent Fawcett ha fondato il movimento nazionale per la rivendicazione dei diritti delle donne, **"National Union of Women's Suffrage"**, cercando a convincere anche gli uomini ad aderire per combattere tutti insieme per i diritti delle donne. Si comincia a parlare di più delle **suffragette** dall'episodio, all'inizio del Novecento, che ha visto come protagonista **Emmeline Pankhurst, che ha protestato in favore delle donne, vicino a Buckingham Palace, e, per questo, è stata arrestata**.
+
+Proprio Emmeline Pankhurst ha fondato nel 1903 la **"Women's Social and Political Union"** (WSPU) per conquistare il diritto di voto politico per le donne, che potevano votare solo alle elezioni per i consigli municipali e quelle di contea. Le donne hanno dato vita ad una serie di azioni dimostrative e molte donne, durante questa lotta, sono state arrestate. **Nancy Astor è stata la prima donna eletta nel Parlamento inglese**, per il Partito Conservatore, il 1° novembre 1919.
