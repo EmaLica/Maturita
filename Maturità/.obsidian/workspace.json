@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff367b754fe84e68",
+        "id": "8a40549be8d48f47",
         "type": "tabs",
         "children": [
           {
-            "id": "0fb0ef0fad735afe",
+            "id": "3c8fb76880584e2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tepsit/XML e JSON.md",
+                "file": "First PC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tepsit/XML e JSON.md",
+                "file": "First PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tepsit/XML e JSON.md",
+                "file": "First PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tepsit/XML e JSON.md"
+                "file": "First PC.md"
               }
             }
           }
@@ -145,12 +145,17 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "0fb0ef0fad735afe",
+  "active": "3c8fb76880584e2b",
   "lastOpenFiles": [
+    "Informatica/Archivi Informatici.md",
+    "Home Page.md",
+    "First PC.md",
+    "Guida staminchia.md",
+    "Tepsit/XML e JSON.md",
     "Tepsit/WebService REST e WebApplication.md",
     "Tepsit/WebService.md",
     "Tepsit/Tecnologie e protocolli di rete.md",
@@ -170,13 +175,8 @@
     "Storia/Il complesso itinerario dell’Italia.md",
     "Storia/I fragili equilibri del Dopoguerra.md",
     "Storia/Hitler al potere.md",
-    "Home Page.md",
     "Storia/Crisi del '29 e l'America di Roosevelt.md",
     "Sistemi e reti/Socket in Java.md",
-    "Sistemi e reti/Sicurezza informatica.md",
-    "Sistemi e reti/Protocolli per la sicurezza.md",
-    "Sistemi e reti/Protocolli del livello applicazione.md",
-    "Sistemi e reti/Macchine virtuali.md",
     "Informatica/Programma Informatica.pdf",
     "Storia/Programma Storia.pdf",
     "Commissari.png",
